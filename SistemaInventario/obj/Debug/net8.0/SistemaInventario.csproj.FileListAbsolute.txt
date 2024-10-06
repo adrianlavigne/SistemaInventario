@@ -563,3 +563,5 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb

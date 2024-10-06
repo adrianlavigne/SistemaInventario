@@ -45,6 +45,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.5",
           "SistemaInventario.AccesoDatos": "1.0.0",
           "SistemaInventario.Modelos": "1.0.0",
+          "SistemaInventario.Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "8.0.0.0",
           "Microsoft.AspNetCore.Authentication.BearerToken": "8.0.0.0",
@@ -2592,6 +2593,14 @@
         },
         "compile": {
           "SistemaInventario.Modelos.dll": {}
+        }
+      },
+      "SistemaInventario.Utilidades/1.0.0": {
+        "runtime": {
+          "SistemaInventario.Utilidades.dll": {}
+        },
+        "compile": {
+          "SistemaInventario.Utilidades.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/8.0.0.0": {
@@ -5568,6 +5577,11 @@
       "sha512": ""
     },
     "SistemaInventario.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaInventario.Utilidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
