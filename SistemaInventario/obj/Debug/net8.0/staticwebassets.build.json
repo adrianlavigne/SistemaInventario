@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Sr9AeuU8uAusvSVqY2c/osEvnP9pRUi5PYKDol6AvfY=",
+  "Hash": "rG4I+c+7EFtyFyAx732cLNaSFgiBsbBGr9nULBB85Mg=",
   "Source": "SistemaInventario",
   "BasePath": "_content/SistemaInventario",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoria.js"
+    },
+    {
+      "Identity": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
+      "SourceId": "SistemaInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\",
+      "BasePath": "_content/SistemaInventario",
+      "RelativePath": "js/marca.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
