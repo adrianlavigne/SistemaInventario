@@ -4,5 +4,7 @@
     {
         public const string Exitosa = "Exitosa";
         public const string Error = "Error";
+
+        public const string RutaImagen = @"\imagenes\producto\";
     }
 }

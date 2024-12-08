@@ -25,6 +25,8 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\adria\source\repos\SistemaInventario\SistemaInventario
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
 [C:/Users/adria/source/repos/SistemaInventario/SistemaInventario/Areas/Admin/Views/Bodega/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQm9kZWdhXEluZGV4LmNzaHRtbA==
@@ -48,6 +50,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/adria/source/repos/SistemaInventario/SistemaInventario/Areas/Admin/Views/Marca/Upsert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTWFyY2FcVXBzZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adria/source/repos/SistemaInventario/SistemaInventario/Areas/Admin/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/adria/source/repos/SistemaInventario/SistemaInventario/Areas/Admin/Views/Producto/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdG9cVXBzZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/adria/source/repos/SistemaInventario/SistemaInventario/Areas/Admin/Views/_ViewImports.cshtml]

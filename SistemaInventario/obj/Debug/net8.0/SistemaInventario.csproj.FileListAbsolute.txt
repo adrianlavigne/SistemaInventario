@@ -114,8 +114,6 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
@@ -186,7 +184,6 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Drawing.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
-C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Formats.Tar.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Globalization.dll
@@ -363,7 +360,6 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
@@ -565,3 +561,20 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SistemaInventario.Utilidades.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SistemaInventario.Utilidades.pdb
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Text.Json.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\SistemaInventario.staticwebassets.endpoints.json
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\bin\Debug\net8.0\refs\System.Formats.Asn1.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\staticwebassets\msbuild.SistemaInventario.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

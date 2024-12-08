@@ -10,3 +10,4 @@ C:\Users\adria\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debu
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\refint\SistemaInventario.Modelos.dll
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.pdb
 C:\Users\adria\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\ref\SistemaInventario.Modelos.dll
+C:\Users\adria\source\repos\SistemaInventario\SistemaInventario.Modelos\obj\Debug\net8.0\SistemaInventario.Modelos.csproj.AssemblyReference.cache

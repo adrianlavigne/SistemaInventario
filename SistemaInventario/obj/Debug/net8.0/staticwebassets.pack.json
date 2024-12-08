@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SistemaInventario.bundle.scp.css",
-      "PackagePath": "staticwebassets\\SistemaInventario.bundle.scp.css"
+      "PackagePath": "staticwebassets\\SistemaInventario.plgncnaf3m.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\css\\site.css",
@@ -11,6 +11,38 @@
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\10fe3a3b-be76-4cf6-8db2-4789d5a4d2c5.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\10fe3a3b-be76-4cf6-8db2-4789d5a4d2c5.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\5515eb16-e265-4d75-a961-14c3bb3107a7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\5515eb16-e265-4d75-a961-14c3bb3107a7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\5668e918-8980-4570-832f-9b5fa8f6f36b.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\5668e918-8980-4570-832f-9b5fa8f6f36b.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\83fc6511-5eef-41cc-91a5-b501334f4e89.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\83fc6511-5eef-41cc-91a5-b501334f4e89.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\b37babc5-ca03-4127-8724-60b8e0f98cb9.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\b37babc5-ca03-4127-8724-60b8e0f98cb9.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\caa2c17c-8504-4a9f-96c5-62506cf80685.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\caa2c17c-8504-4a9f-96c5-62506cf80685.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\d1851c0f-0d32-4110-8a52-f6fbb37cc2c7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\d1851c0f-0d32-4110-8a52-f6fbb37cc2c7.JPG"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\imagenes\\producto\\e181f21c-b0a7-4a15-9b68-3175718759d7.JPG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\e181f21c-b0a7-4a15-9b68-3175718759d7.JPG"
     },
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\bodega.js",
@@ -23,6 +55,10 @@
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\js\\site.js",
@@ -255,6 +291,10 @@
     {
       "Id": "C:\\Users\\adria\\source\\repos\\SistemaInventario\\SistemaInventario\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SistemaInventario.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SistemaInventario.Microsoft.AspNetCore.StaticWebAssets.props",
